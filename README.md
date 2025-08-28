@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Asad ul Haq  
 
-<!--
-**Muhammad-Asad-ul-haq/Muhammad-Asad-ul-haq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS Artificial Intelligence (FAST Karachi, Batch 2028)**  
+💻 **Student | Developer | Graphic Designer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently pursuing **AI & Computer Science** at FAST NUCES Karachi  
+- 💡 Passionate about **Machine Learning, Data Science & Problem Solving**  
+- 💻 Skilled in **C++, C, and Python**  
+- 🎨 Graphic Designer on **Etsy** (digital products & designs)  
+- 🌱 Always learning new technologies & improving my design + coding skills  
+
+---
+
+## 🛠️ Languages & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Etsy](https://img.shields.io/badge/Etsy-orange?style=for-the-badge&logo=etsy&logoColor=white)](https://etsy.com/shop/yourshopname)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Asad-ul-haq&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Asad-ul-haq&layout=compact&theme=tokyonight)  
+
+![Streak Stats](https://streak-stats.demolab.com/?user=Muhammad-Asad-ul-haq&theme=dark)  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Asad-ul-haq&color=blue)
